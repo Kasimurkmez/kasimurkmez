@@ -1,4 +1,4 @@
-### Hi there.I'm Kasim
+### Hi there.I'm Kasim ...👋
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Redux)
 - 🌱 I’m currently learning (Nextjs || Typescript)
